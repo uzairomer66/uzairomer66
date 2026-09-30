@@ -23,10 +23,7 @@ currently expanding into Python, statistical modelling and machine learning.
 **Experimentation:** A/B Testing • Hypothesis Testing • Statistical Analysis  
 **Python:** Pandas • NumPy • Scikit-learn (currently developing)
 
-## 🚀 Currently Building
 
-I'm developing end-to-end Python projects focused on applying machine learning
-and statistical methods to real-world customer and product problems.
 ## 🚀 Projects
 
 ### 🧪 A/B Testing & Experimentation
