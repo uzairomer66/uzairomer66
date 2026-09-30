@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Uzair 👋
 
-<!--
-**uzairomer66/uzairomer66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst specialising in experimentation, product analytics and 
+customer behaviour, with experience using data to understand conversion, 
+engagement, retention and digital journeys.
 
-Here are some ideas to get you started:
+My core toolkit is SQL, BigQuery, Tableau and Adobe Analytics, and I'm 
+currently expanding into Python, statistical modelling and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Areas I work in
+
+- A/B testing & experimentation
+- Product & customer analytics
+- Statistical analysis
+- Clickstream & behavioural analytics
+- Conversion & funnel analysis
+- Retention, churn & lifecycle analytics
+- Data visualisation & self-service reporting
+- Predictive modelling & machine learning (currently developing)
+
+## 🛠️ Technical Toolkit
+
+**Analytics:** SQL • BigQuery • Adobe Analytics • Excel  
+**Visualisation:** Tableau • Power BI  
+**Experimentation:** A/B Testing • Hypothesis Testing • Statistical Analysis  
+**Python:** Pandas • NumPy • Scikit-learn (currently developing)
+
+## 🚀 Currently Building
+
+I'm developing end-to-end Python projects focused on applying machine learning
+and statistical methods to real-world customer and product problems.
+
+Upcoming projects:
+- Customer churn prediction
+- A/B testing & statistical significance analysis
+- Customer segmentation
+- Conversion funnel analysis
