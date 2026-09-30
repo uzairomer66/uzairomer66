@@ -27,9 +27,23 @@ currently expanding into Python, statistical modelling and machine learning.
 
 I'm developing end-to-end Python projects focused on applying machine learning
 and statistical methods to real-world customer and product problems.
+## 🚀 Projects
 
-Upcoming projects:
+### 🧪 A/B Testing & Experimentation
+Python-based analysis of an A/B test covering conversion uplift,
+statistical significance and business interpretation.
+
+**Tools:** Python • Statsmodels • Statistical Testing
+
+### 🐍 Currently Learning
+
+I'm developing my Python and machine learning skills, with a focus on
+applying predictive modelling to real-world customer and product problems.
+
+### 🔨 Next Projects
+
 - Customer churn prediction
-- A/B testing & statistical significance analysis
-- Customer segmentation
-- Conversion funnel analysis
+- Logistic regression modelling
+- Random forest classification
+- Model evaluation & comparison
+- Customer propensity modelling
