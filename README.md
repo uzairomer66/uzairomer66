@@ -1,8 +1,6 @@
 # Hi, I'm Uzair 👋
 
-I'm a Data Analyst specialising in experimentation, product analytics and 
-customer behaviour, with experience using data to understand conversion, 
-engagement, retention and digital journeys.
+I'm a Data & Analytics professional specialising in experimentation, product analytics and customer behaviour, with experience using data to understand conversion, engagement, retention and digital journeys.
 
 My core toolkit is SQL, BigQuery, Tableau and Adobe Analytics, and I'm 
 currently expanding into Python, statistical modelling and machine learning.
